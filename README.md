@@ -6,6 +6,10 @@
 
 </div>
 
+> 📖 **Docs & full guide:** [What is Generative Engine Optimization?](https://nadiamohamed.me/insights/what-is-generative-engine-optimization/)
+> Built by [Nadia Mohamed](https://nadiamohamed.me) — SEO Engineer · Technical SEO + GEO for SaaS.
+> Try the free companion tools at [nadiamohamed.me/ai-tools](https://nadiamohamed.me/ai-tools/).
+
 Classic SEO optimizes for a ranked list of blue links. **GEO/AEO optimizes for being the source an AI engine quotes.** Different mechanics — entity resolution, citation confidence, structured data, retrievability — and a fast-moving, poorly-documented space. This list is an attempt to map it.
 
 Maintained by [Nadia Mohamed](https://nadiamohamed.me), SEO Engineer (Technical SEO + GEO for SaaS & tech). Contributions welcome — see [Contributing](#contributing).
@@ -109,6 +113,17 @@ Found a tool, paper, or resource that belongs here? Contributions are very welco
 3. Open a pull request.
 
 Keep it **awesome**: no link farms, no thin listicles, no paywalled-with-no-value content. Real tools, primary sources, and genuinely useful writing only.
+
+## Part of the GEO toolkit
+
+Open-source tools I maintain for AI-search visibility:
+
+- [llms-txt-generator](https://github.com/NadiaM22/llms-txt-generator) — spec-compliant `/llms.txt` from any sitemap
+- [geo-audit-cli](https://github.com/NadiaM22/geo-audit-cli) — score any URL on AI-search readiness
+- [ai-referral-tracker](https://github.com/NadiaM22/ai-referral-tracker) — isolate ChatGPT/Perplexity/Gemini traffic in GA4 & logs
+- [json-ld-schema-templates-seo](https://github.com/NadiaM22/json-ld-schema-templates-seo) — production JSON-LD templates optimized for AI citation
+
+Web-based versions (no install): [AEO Analyzer, Keyword Clustering & more →](https://nadiamohamed.me/ai-tools/)
 
 ## License
 
