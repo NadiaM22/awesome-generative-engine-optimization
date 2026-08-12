@@ -62,6 +62,7 @@ Maintained by [Nadia Mohamed](https://nadiamohamed.me), SEO Engineer (Technical 
 - ⭐ [**json-ld-schema-templates-seo**](https://github.com/NadiaM22/json-ld-schema-templates-seo) — production-ready JSON-LD templates optimized for AI citation.
 - [Schema Markup Validator](https://validator.schema.org/) — official Schema.org validator.
 - [Rich Results Test](https://search.google.com/test/rich-results) — Google's structured-data eligibility checker.
+- [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) — check whether documented AI search and user-retrieval crawlers can reach a page, and distinguish robots.txt rules from observed HTTP responses.
 
 ## Structured data & schema
 
