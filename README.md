@@ -73,6 +73,7 @@ Maintained by [Nadia Mohamed](https://nadiamohamed.me), SEO Engineer (Technical 
 
 - [How to Track AI Referral Traffic in GA4](https://nadiamohamed.me/insights/track-ai-referral-traffic/) — building an AI-search channel in GA4.
 - ⭐ [ai-referral-tracker](https://github.com/NadiaM22/ai-referral-tracker) — do it from an export or log instead of hand-built segments.
+- [Parse](https://parse.gl/brands) - Free public index of which brands ChatGPT and Google AI Overviews actually recommend and which sources they cite, useful as an external baseline before and after a GEO change because it measures citation share that never reaches your own logs.
 - Server-log analysis matters here: many AI crawlers don't execute JavaScript, so they're invisible to client-side analytics but visible in raw logs.
 
 ## The AI engines
